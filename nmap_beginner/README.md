@@ -5,7 +5,7 @@ In this task we introduce the popular network scanning tool "nmap". The task of 
 
 Steps.
 1. apt install nmap(to find relevant flags)
-3. Students can use for example -sV flag: nmap -sV scanme.nmap.org
+2. Students can use for example: nmap -sV scanme.nmap.org
 
 ans 1: http
 ans 2: ssh
