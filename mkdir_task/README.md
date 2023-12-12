@@ -10,4 +10,4 @@ Steps to comp
 2. chmod +x checker.sh
 3. ./checker.sh
 
-ans: CSP{DIRSARENICE}
+## TO-DO How do we validate that the directory exists, the shell script is one idea
