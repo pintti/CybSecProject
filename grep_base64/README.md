@@ -6,7 +6,7 @@ Hint: All the decoded lines start with 'CSP', for some reason we know that the d
 
 Example solution
 ```console
-grep 'WAGON' <(base64 -d encoded_data.txt)
+grep '<something here>' <(<something here> encoded_data.txt)
 ```
 
 answer: CSP{PACWAGONRFTSIX}
