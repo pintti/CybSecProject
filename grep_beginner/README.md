@@ -1,6 +1,13 @@
 ## Write up to complete the task
 
-The task consists of using the grep command to find the contents of the only line that matches the regex of previous base64 tasks' flags.
+Your task is to use the unix command "grep" to get the line that contains the answer. We know the following:
+  - It follows the typical flag structure introduced in previous tasks
+  - it is in the file.txt
+
+```
+Useful commands:
+  -grep '<something here>' file.txt
+```
 
 
 Steps to complete:
