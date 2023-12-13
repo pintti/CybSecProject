@@ -1,0 +1,2 @@
+This wasn't the flag! But good job finding it :)
+The correct flag has a number from 0-100 next to its name i.e. flag<number>.txt
