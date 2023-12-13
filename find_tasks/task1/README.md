@@ -1,7 +1,7 @@
 ## Basic search task
 
 You have a filesystem with many different files under different directories,
-your task is to use the find command with certain flags to find the correct file. 
+your task is to use the find command with certain flags to find the correct file.
 We know the following about the file:
     - it is a text file
     - its name has "flag" in it
@@ -11,7 +11,7 @@ https://linuxhint.com/bash_wildcard_tutorial/
 
 ```
 Useful commands:
-    search
+    find
     cat
 ```
 
