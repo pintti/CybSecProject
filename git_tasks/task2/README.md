@@ -1,17 +1,21 @@
 # Write up to complete this task
 
-Previously you managed to fix a bug found in the codebase, now your task is to clone a repository from git, find a bug in the code and push the changes. This is how updating code usually is handled nowadays.
+Previously you managed to push local changes to remote thus making sure your changes are saved in version control! Pushing changes often makes sure that you can easily revert changes if you manage to screw something up!
 
-This will require you to have set up a github account and will teach you the basic usage of git when collaborating or working on your own projects which becomes relevant the more you study this field!
+Your task now is to navigate through changes made to an existing repository to find out what file was accidentally deleted. We know the file was deleted after 13/12/2023.
 
-The repository that you need to clone is located in:
-https://github.com/lsuutari19/cybsectask.git
+The repository in question is the following:
+The answer is the name of the file that was deleted.
+
 
 ```
 Useful commands:
     -git 
-    -git clone <repository url>
-    -git add .
-    -git commit -m "commit message here"
-    -git push
+    -git log
+    -git log -n
+    -git log --since=<date>
+    -git log --full-history
+    -git log --name-only
 ```
+
+ans: wordlist.txt

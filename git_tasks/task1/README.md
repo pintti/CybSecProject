@@ -20,3 +20,12 @@ Useful commands:
     -git commit -m "commit message here"
     -git push
 ```
+
+What is the 5th line when successfully pushing to remote?
+It is after Comperssing objects: .... and before
+Total ... 
+
+hint: W___t__g o__e_s
+fill in the blank letters
+
+ans: Writing objects
