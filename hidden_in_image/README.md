@@ -4,6 +4,8 @@ Someone hid valuable data in the doggo.jpg image and encrypted the password to f
 
 You may need to install a new linux package
 
+The answer lies in the file that is extracted from the image!
+
 ```
 Useful commands:
     -cat
@@ -11,3 +13,5 @@ Useful commands:
     -apt-get install steghide
     -steghide --help
 ```
+
+ans: CSP{THISWASH1DDENINIM@G3}
