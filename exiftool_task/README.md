@@ -10,4 +10,4 @@ Steps to complete:
 
 3. This outputs the metadata, which reveals the hidden flag `CSP{METADATA}`:
 
-![exiftool output](./img/exiftool_output.png)
+![exiftool output](./images/exiftool_output.png)
