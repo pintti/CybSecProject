@@ -2,6 +2,12 @@
 
 This task teaches basic directory traversal operations with "cd". The goal is for the student to traverse different subfolders until he finds the "goal" folder, below that folder is a file that's name is the flag.
 
+```
+Useful commands:
+  -cd
+  -ls
+```
+
 
 Steps to comp
 1. cd beginning
