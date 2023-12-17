@@ -4,7 +4,8 @@ Previously you managed to push local changes to remote thus making sure your cha
 
 Your task now is to navigate through changes made to an existing repository to find out what file was accidentally deleted. We know the file was deleted after 13/12/2023.
 
-The repository in question is the following:
+The repository in question is the following: https://github.com/lsuutari19/cybsectask
+
 The answer is the name of the file that was deleted.
 
 
