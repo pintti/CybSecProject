@@ -1,6 +1,8 @@
 ## Write up to complete the task
 
-This task teaches students how to create files and directories.
+This task teaches students how to create files and directories. First create a folder thats named "documents" then create a file called file.txt under that and then write to the file the following string: Q1JFQVRFRDRGT0xERVI=
+
+After doing this run the checker similarly to the folder creation task to get the answer.
 
 ```
 Relevant commands:
@@ -19,4 +21,4 @@ Steps to comp
 3. nano file.txt (student writes something here)
 4. cat file.txt
 
-## TO-DO: Figure out how we validate that this file exists and it contains the word we want there.
+ans: CSP{CREATED4FOLDER}
