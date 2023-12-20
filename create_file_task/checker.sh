@@ -1,8 +1,8 @@
 #!/bin/bash
 
-if [ -d "./goal" ]; then
-    if [ -f "./goal/file.txt" ]; then
-        flag=$(cat ./goal/file.txt | base64 -d) 
+if [ -d "./documents" ]; then
+    if [ -f "./documents/file.txt" ]; then
+        flag=$(cat ./documents/file.txt | base64 -d) 
         echo "This is the answer: CSP{$flag}"
     else
         echo "The file doesnt exist."
